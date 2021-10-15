@@ -26,9 +26,9 @@
 #' @rdname aicha
 #' @examples
 #' data(aicha)
+#' data(aicha_3d)
 "aicha"
 
 #' @rdname aicha
-#' data(aicha_3d)
 "aicha_3d"
 
