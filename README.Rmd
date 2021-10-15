@@ -51,7 +51,7 @@ You can install the released version of ggsegAicha from [GitHub](https://github.
 remotes::install_github("ggseg/ggsegAicha")
 ```
 
-```{r, fig.height=7}
+```{r, fig.height=12}
 library(ggseg)
 library(ggseg3d)
 library(ggsegAicha)
