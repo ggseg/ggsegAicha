@@ -6,6 +6,9 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/ggseg/ggsegAicha/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegAicha/actions)
+[![DOI](https://zenodo.org/badge/417476540.svg)](https://zenodo.org/badge/latestdoi/417476540)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/ggsegAicha)](https://CRAN.R-project.org/package=ggsegAicha)
 <!-- badges: end -->
 
 This package contains dataset for plotting the
@@ -45,6 +48,7 @@ remotes::install_github("ggseg/ggsegAicha")
 
 ``` r
 library(ggseg)
+#> Warning: package 'ggseg' was built under R version 4.1.1
 #> Loading required package: ggplot2
 library(ggseg3d)
 library(ggsegAicha)

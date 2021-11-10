@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/ggseg/ggsegAicha/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegAicha/actions)
+[![DOI](https://zenodo.org/badge/417476540.svg)](https://zenodo.org/badge/latestdoi/417476540)
+[![CRAN status](https://www.r-pkg.org/badges/version/ggsegAicha)](https://CRAN.R-project.org/package=ggsegAicha)
 <!-- badges: end -->
 
 This package contains dataset for plotting the [aicha](https://pubmed.ncbi.nlm.nih.gov/26213217/) atlas ggseg and ggseg3d. 
